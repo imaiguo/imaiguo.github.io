@@ -1,0 +1,64 @@
+<style type="text/css">
+
+A:link		{ FONT-SIZE: 16px; COLOR: #000000;}
+A:visited	{ FONT-SIZE: 16px; COLOR: #000000;}
+A:hover		{ FONT-SIZE: 16px; COLOR: #FFFFFF; BACKGROUND-COLOR: #C1A2F7;}
+
+A.chaps:link	{ FONT-SIZE: 13px; COLOR: #3D61B6; TEXT-DECORATION: none; height:20px; }
+A.chaps:visited { FONT-SIZE: 13px; COLOR: #3D61B6; TEXT-DECORATION: none; height:20px; }
+A.chaps:hover	{ FONT-SIZE: 13px; COLOR: #FFFFFF; BACKGROUND-COLOR: #C1A2F7; TEXT-DECORATION: none; height:20px; }
+
+A.Oline:link	{ FONT-SIZE: 17px; COLOR: #7B00B5; TEXT-DECORATION: none }
+A.Oline:visited	{ FONT-SIZE: 17px; COLOR: #7B00B5; TEXT-DECORATION: none }
+A.Oline:hover	{ FONT-SIZE: 17px; COLOR: #FFFFFF; BACKGROUND-COLOR: #C1A2F7; TEXT-DECORATION: none }
+
+A.Olin:link	{ FONT-SIZE: 17px; COLOR: #7B00B5; TEXT-DECORATION: none }
+A.Olin:visited	{ FONT-SIZE: 17px; COLOR: #7B00B5; TEXT-DECORATION: none }
+A.Olin:hover	{ FONT-SIZE: 17px; COLOR: #FFFFFF; BACKGROUND-COLOR: #C1A2F7; TEXT-DECORATION: none }
+
+A.O:link 	{ FONT-SIZE: 17px; COLOR: #3D61B6; TEXT-DECORATION: none }
+A.O:visited	{ FONT-SIZE: 17px; COLOR: #3D61B6; TEXT-DECORATION: none }
+A.O:hover	{ FONT-SIZE: 17px; COLOR: #FFFFFF; BACKGROUND-COLOR: #C1A2F7; TEXT-DECORATION: none }
+
+A.notes:link	{ FONT-SIZE: 16px; COLOR: #0000FF; BACKGROUND-COLOR: #FFFFFF; TEXT-DECORATION: none ;FONT-WEIGHT: bold;}
+A.notes:visited	{ FONT-SIZE: 16px; COLOR: #0000FF; BACKGROUND-COLOR: #FFFFFF; TEXT-DECORATION: none ;FONT-WEIGHT: bold;}
+A.notes:hover	{ FONT-SIZE: 16px; COLOR: #FFFFFF; BACKGROUND-COLOR: #C1A2F7; TEXT-DECORATION: none ;}
+
+A.CRight:link	{ FONT-SIZE: 16px; COLOR: #800080; BACKGROUND-COLOR: #FFFFFF; TEXT-DECORATION: none }
+A.CRight:visited{ FONT-SIZE: 16px; COLOR: #800080; BACKGROUND-COLOR: #FFFFFF; TEXT-DECORATION: none }
+A.CRight:hover	{ FONT-SIZE: 16px; COLOR: #FFFFFF; BACKGROUND-COLOR: #C1A2F7; TEXT-DECORATION: none }
+
+A.BRight:link	{ FONT-SIZE: 16px; COLOR: #808080; BACKGROUND-COLOR: #FFFFFF; TEXT-DECORATION: none }
+A.BRight:visited{ FONT-SIZE: 16px; COLOR: #808080; BACKGROUND-COLOR: #FFFFFF; TEXT-DECORATION: none }
+A.BRight:hover	{ FONT-SIZE: 16px; COLOR: #FFFFFF; BACKGROUND-COLOR: #C1A2F7; TEXT-DECORATION: none }
+
+A.vsref:visited { FONT-SIZE: 16px; COLOR: #2023af; TEXT-DECORATION: none; FONT-WEIGHT: bold;}
+A.vsref:link    { FONT-SIZE: 16px; COLOR: #2023af; TEXT-DECORATION: none; FONT-WEIGHT: bold;}
+A.vsref:hover   { FONT-SIZE: 16px; COLOR: #ffffff; BACKGROUND: #2023af; TEXT-DECORATION: none;}
+
+/* 主题本文的字型color="#808080" */ 
+ 
+body     { BACKGROUND-image:url(bj.gif) }
+SELECT      { FONT-SIZE: 16px; FONT-FAMILY: 宋体; BACKGROUND-COLOR: white }
+.SubjectA   { FONT-SIZE: 16px; COLOR: #7492D6;Font-weight:bolder; }
+.SubjectB   { FONT-SIZE: 16px; COLOR: #990033; Font-weight:bolder;}
+.SubjectC  { FONT-SIZE: 16px; COLOR: #000000 Font-weight:bolder;}
+.TBodyStr   { FONT-SIZE: 16px; COLOR: #000000; background-color: #F7FAFF;}
+.TableBodyStr   { FONT-SIZE: 16px; COLOR: #666699;background-color: #F7FAFF;}
+.OutLeStr   { FONT-SIZE: 16px; COLOR: #000080; Font-weight:bolder;}
+.ChapHead   { FONT-SIZE: 16px; COLOR: #000000; background-color: E1EDFF;}
+.xref       { FONT-SIZE: 16px; COLOR: #2023af }
+.title      { FONT-SIZE: 16px; Font-weight:bolder; COLOR:#7B00B5;letter-spacing:2em; }
+.title1     { FONT-SIZE: 16px; Font-weight:bolder; COLOR:#990033;letter-spacing:1em; }
+.title2     { FONT-SIZE: 16px; Font-weight:bolder; COLOR:#990033;}
+.title3     { FONT-SIZE: 16px; Font-weight:bolder; COLOR:red;}
+.title4     { FONT-SIZE: 16px; Font-weight:bolder; COLOR:#7B00B5;letter-spacing:1em; }
+.title5     { FONT-SIZE: 16px; Font-weight:bolder; COLOR:#7B00B5;}
+.td         {font-size:16px;color:#000080;background-color: #E1EDFF;height:20px;}
+.td1        {font-size:16px;color:#000000;}
+
+b {font-size:16px}
+td {font-size:16px}
+a {font-size:16px}
+
+</style>
