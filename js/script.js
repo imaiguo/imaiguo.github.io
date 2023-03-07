@@ -11,4 +11,4 @@ $('#cssmenu').prepend('<div id="menu-button">菜单</div>');
 		}
 	});
 });
-} )( jQuery );
+} );
