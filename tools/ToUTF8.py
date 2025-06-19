@@ -33,7 +33,8 @@ def ScanDirTransfer(dirpath):
     for root, dirs, files in os.walk(dirpath):
         for file in files:
             splite = os.path.splitext(file)[1]
-            if splite == '.html' or splite == '.htm':
+            # if splite == '.html' or splite == '.htm':
+            if splite == '.HTM':
                 path = os.path.join(root, file)
                 loguru.logger.debug(f"开始处理文件-> [{path}]")
                 GBKToUTF8(path, path)
