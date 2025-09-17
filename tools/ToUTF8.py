@@ -29,7 +29,7 @@ def GBKToUTF8(filepath, targetpath, targetCode="UTF-8"):
     except IOError as err:
         loguru.logger.error("I/O error:{0}".format(err))
 
-def ScanDirTransfer(dirpath):
+def ScanDirAndTransfer(dirpath):
     for root, dirs, files in os.walk(dirpath):
         for file in files:
             splite = os.path.splitext(file)[1]
@@ -43,7 +43,7 @@ if __name__ == "__main__":
     # RunMain()
 
     path = "/opt/www/html/b/s3"
-    ScanDirTransfer(path)
+    ScanDirAndTransfer(path)
 
     # sourcePath  = "/opt/www/html/tools/index.html"
     # # sourcePath = "/opt/www/html/b/s3/002/2213国度/017第十六章　长大、变化和建造的收成.htm"
